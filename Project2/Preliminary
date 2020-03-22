@@ -1,1 +1,23 @@
+//some ideas 
+
+/*
+we need to consider the fact that M3 is smaller than M2,
+however it pulls down M2
+also, there exist gravitation force, which influences vertically 
+
+problem 2.2 is much like to this problem and we can use it as a hint
+the only difference is that we have force from the right side 
+
+
+in order to have different inputs and then outputs, as en experiment
+we can run the program by randomizing the inputs
+
+
+By using the quiz3 solution, we get that
+M3 cannot be out of the hole => the walls of M1 act on it horizonatally
+
+
+
+*/ 
+
 
